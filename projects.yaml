@@ -661,4 +661,10 @@ projects:
     github_id: RasaHQ/NLU-training-data
     category: nlp
     show: True
+    
+  - name: Cannabis Recommendation using ML 
+    homepage: https://nikhiljha97-cannabis-recommendation-using-ml-main-tuhvuk.streamlit.app/
+    github_id: nikhiljha97/cannabis-recommendation-using-ML
+    category: ml
+    show: True
 
